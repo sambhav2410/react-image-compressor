@@ -1,0 +1,23 @@
+.style_navbar{
+    background-color: #082F5B;
+    color: white;
+    width: 100%;
+}
+.link{
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+ 
+}
+#style_link{
+padding-left: 25%;
+
+}
+.brand{
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+span{
+    color: red;
+}

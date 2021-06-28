@@ -1,0 +1,46 @@
+.feature_container{
+  margin-top: 2px;
+}
+.r{
+  color: red;
+}
+
+.fea{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+  }
+  .feature{
+    margin-left: 30%;
+    float: left ;
+  }
+  
+.click{
+color:red;
+text-align:center;
+font-weight: bold;
+margin-top: 3%;
+}
+@media screen and (max-width: 600px){
+  .fea{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .feature{
+    margin-left: 28%;
+    float: left ;
+    height: 110px;
+    width: 150px;
+    
+  }
+  .click{
+    color:red;
+    text-align:center;
+    font-weight: bold;
+    margin-top: 3%;
+    font-size: 20px;
+    }
+   
+}

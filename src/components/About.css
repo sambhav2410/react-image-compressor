@@ -1,0 +1,16 @@
+.fea{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+  }
+  .us{
+      color: red;
+  }
+  p{
+      color: black;
+       width: 80%;
+       display: block;
+    
+      text-align: left;
+     
+  }
