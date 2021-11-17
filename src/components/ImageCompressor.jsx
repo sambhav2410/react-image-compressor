@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from "react";
-import CompressImage from "../react-image-compressor/src/components/file-upload-1280x640.png"
+import CompressImage from "./file-upload-1280x640.png"
 import imageCompression from "browser-image-compression";
 import Card from "react-bootstrap/Card";
 import ImgProfile from "./final.png";
