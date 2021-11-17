@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import React from "react";
-
+import CompressImage from "../react-image-compressor/src/components/file-upload-1280x640.png"
 import imageCompression from "browser-image-compression";
 import Card from "react-bootstrap/Card";
 import ImgProfile from "./final.png";
@@ -99,7 +99,7 @@ class imageCompressor extends React.Component {
             ) : (
               <Img
                 style={this.imageStyle}
-                url="https://allcompressimage.com/static/media/file-upload-1280x640.png"
+                src={CompressImage}
               />
             )}
             <Button handle={this.handle} input />
